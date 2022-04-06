@@ -36,6 +36,7 @@ GREEK_LOWER = {
     "gamma": "\\gamma",
     "delta": "\\delta",
     "epsilon": "\\epsilon",
+    "varepsilon": "\\varepsilon",
     "zeta": "\\zeta",
     "theta": "\\theta",
     "iota": "\\iota",
